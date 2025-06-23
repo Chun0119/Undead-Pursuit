@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item Database
+  - Soldier Database
+  - Puzzle Game Manager
+  - Character Fire
+  - Monster Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Door
+  - Lock
+  - Monster
+  - Dialogue
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3351299509
+    locked: 1
+  - name: Object
+    uniqueID: 1784902183
+    locked: 0
+  - name: Dialogue
+    uniqueID: 3871687889
+    locked: 0
+  - name: UI
+    uniqueID: 964561257
+    locked: 0

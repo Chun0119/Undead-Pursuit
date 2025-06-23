@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 284d27d89a6736b43a873868be3c490c
+  - enabled: 1
+    path: Assets/Scenes/1F Game Room.unity
+    guid: db8d8676ff16d054a8086332decf199b
+  - enabled: 1
+    path: Assets/Scenes/1F Kitchen.unity
+    guid: 88eeb302069154c48af29cdb4e99b666
+  - enabled: 1
+    path: Assets/Scenes/1F Living Room.unity
+    guid: 6e1a0fa3b5efccd4291a1ff52a1f1828
+  - enabled: 1
+    path: Assets/Scenes/1F Master Bedroom.unity
+    guid: eeaa41050ec504444ab1f8e0fcc352e5
+  - enabled: 1
+    path: Assets/Scenes/1F Master Study Room.unity
+    guid: 70b1449358cc2674b87e1c5409002d07
+  - enabled: 1
+    path: Assets/Scenes/1F Storeroom.unity
+    guid: f82ec3450dceead40b04c08799429748
+  - enabled: 1
+    path: Assets/Scenes/1F Toilet.unity
+    guid: 9cd0a5bd50ea8184cb35cd5ae9a9f0b0
+  - enabled: 1
+    path: Assets/Scenes/2F Roof Top.unity
+    guid: 0617d3e77082d8749aa01ed441bd3531
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: dcc15c17166c6df4591266bd8606b6ea
+  - enabled: 1
+    path: Assets/Scenes/GF Dining Room.unity
+    guid: f3fecc2ba1c2a3b4ea008a164e5b636a
+  - enabled: 1
+    path: Assets/Scenes/GF Entrance.unity
+    guid: d94df74e8b977f5498786fb7f21a47cb
+  - enabled: 1
+    path: Assets/Scenes/GF Girl Bedroom.unity
+    guid: 82ddb48f7cc053740a734d594dcf24fd
+  - enabled: 1
+    path: Assets/Scenes/GF Girl Study Room.unity
+    guid: c85fb6a4f18bdca4eaa5ecfc9b9be85a
+  - enabled: 1
+    path: Assets/Scenes/GF Laboratory.unity
+    guid: 6a3302b5666e5d1489a879f32723bd94
+  - enabled: 1
+    path: Assets/Scenes/GF Living Room.unity
+    guid: 54ae25ecd60a8dc47bdac7763d7d1ff5
+  - enabled: 1
+    path: Assets/Scenes/Password Box.unity
+    guid: c1ff78c9b0f40c64d93c322c76aba0c4
+  - enabled: 1
+    path: Assets/Scenes/GF Toilet.unity
+    guid: 584309bb5001f3744a5c6bad4e7917b2
+  - enabled: 1
+    path: Assets/Scenes/Fighting.unity
+    guid: 0ed10968763e4674f8f74effbee9bd58
+  - enabled: 1
+    path: Assets/Scenes/Wood.unity
+    guid: 8b9122b6a4c1b3a45a1a5dccc3cf9d4e
